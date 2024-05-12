@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url(../Fonts/roboto/Roboto-Medium.ttf);
+}
+
+h1 {
+    font-family: 'RobotoMedium', sans-serif;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
