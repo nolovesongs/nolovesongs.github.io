@@ -10,7 +10,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 450px;
+    padding-right: 450px;
     padding-bottom: 10px;
 }
 
