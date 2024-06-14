@@ -125,6 +125,20 @@ p {
 
  }
 
+ .header-main-sm-yt {
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/youtube.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header-main-sm-yt:hover {
+   background-image: url(../img/youtube-color.png);
+
+}
+
  .header-main-sm-fb {
      width: 20px;
      height: 20px;
@@ -152,6 +166,18 @@ p {
     background-image: url(../img/instagram-color.png);
 }
 
+.header-main-sm-sp {
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/spotify.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header-main-sm-sp:hover {
+    background-image: url(../img/spotify-color.png);
+}
 /* <600px, 601px, 768px, 992px, 1200px */
 
 /* LARGE TABLET VERSION */
