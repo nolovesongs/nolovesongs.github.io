@@ -153,6 +153,19 @@ p {
  
 }
 
+ .header-main-sm-bc {
+     width: 20px;
+     height: 20px;
+     background-image: url(../img/bandcamp.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+
+ .header-main-sm-bc:hover {
+    background-image: url(../img/bandcamp-color.png);
+ 
+}
  .header-main-sm-in {
     width: 20px;
     height: 20px;
