@@ -81,7 +81,7 @@ main .main-intro {
     font-family: 'RobotoMedium', sans-serif;
     }
     
-.index-about-text a {
+.index-about-text a.btn {
         font-family: 'RobotoMedium', sans-serif;
         font-size: 15px;
         display: block;
@@ -92,9 +92,20 @@ main .main-intro {
         width: fit-content;
     }
 
-.index-about-text a:hover {
+.index-about-text a.btn:hover {
     background-color: rgb(148, 148, 148);
 }
+
+/* Inline links inside paragraph text */
+.index-about-text p a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.index-about-text p a:hover {
+  text-decoration: underline;
+}
+
 
 /* <600px, 601px, 768px, 992px, 1200px */
 
